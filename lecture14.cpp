@@ -4,7 +4,7 @@
 using namespace std;
 class KhudkaStack{
   public:
-  int defaultSize=500000;
+  int defaultSize=10;
   int *arr;
   int peek=-1;
   KhudkaStack(){
